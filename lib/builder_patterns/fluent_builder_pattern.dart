@@ -81,7 +81,3 @@ void main() {
   // Finally, we display the attributes of the constructed house.
   house.display();
 }
-
-// This pattern helps make our code more readable, like telling a story, even for a 15-year-old
-// who's been programming for 10 years. It's like following a recipe to create a delicious dish
-// with all the right ingredients in the right order.
